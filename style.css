@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  color: white;
+}
+
+.div1 {
+  width: 200px;
+  height: 200px;
+  background-color: #000;
+  }
+  
+  .div2 {
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    position: relative;
+    top: -100px;
+    left: 100px;
+  }
